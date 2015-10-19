@@ -1,0 +1,28 @@
+{
+  "name": "common-dlog",
+  "version": "1.0.0",
+  "description": "Wraps https://github.com/jshttp/cookie in a module for use with CommonJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richcompton1705/common-dlog.git"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "logging"
+  ],
+  "author": "Richard Compton <richcompton1705@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richcompton1705/common-dlog/issues"
+  },
+  "homepage": "https://github.com/richcompton1705/common-dlog#readme",
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "should": "^7.1.0"
+  }
+}
